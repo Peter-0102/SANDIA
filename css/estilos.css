@@ -16,5 +16,14 @@ body
 #container h1
 {
     font-size: 20px;
-    
+
+}
+#cabecera
+{
+box-shadow;
+background:rgb(0, 0, 0);
+margin: auto;
+padding: 0%;
+text-align: center;    
+font-variant-numeric: slashed-zero;
 }
