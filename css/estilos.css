@@ -1,6 +1,20 @@
 body
 {
-    color:aqua;
+    color:palevioletred;
     text-align: center;
     font-family: "Arial"; 
+}
+#conteiner
+{
+    width: 70%;
+    padding: 1em;
+    text-align: justify;
+    border: 1px solid #000;
+    margin: auto;
+
+}
+#container h1
+{
+    font-size: 20px;
+    
 }
