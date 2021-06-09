@@ -19,9 +19,9 @@ body
     width: 50px;
     vertical-align: middle;
 }
-#container h1
+#conteiner h1
 {
-    font-size: 10px;
+    font-size: 25px;
 
 
 }
@@ -32,4 +32,11 @@ color: rgb(225, 0, 255);
 font-weight: bold;
 margin: 0;
 padding: 0.5em  0 0.5em 2em;
+}
+#footer
+{
+    background: #999;
+    color: red;
+    text-align: center;
+    padding: 0.5em;
 }
