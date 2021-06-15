@@ -5,6 +5,10 @@
 
 > CREADO POR EL ESPLENDIDO PETER ALIAS SaNonche
 
+Inclye Notas de alternativos autores reconocidos :D entre ellos peter ; >
+
+Disponible para todas las edades :3
+
 Las **sandias** han venido a revolucionar a este mundo desalodo y agrio, las nuevas caracteristicas de las Sandias 3000 llegan para aportar beneficios impresendibles que marcaran  de por vida a sus usuarios :D. 
 ![NYA](https://i.imgur.com/F4HGGpv.jpg "NYA")
 
